@@ -1,10 +1,10 @@
 ## Information
-- Incheon, South Korea 🇰🇷
-- A.I Postgraduate Student @Konkuk
-- Associate Researcher @Startup
-- TypeScript, Node.js, React.js, React-Native.js, Next.js, Nest.js
+- 🇰🇷 Incheon, South Korea 
+- 📚 A.I Postgraduate Student @Konkuk
+- 👨‍💻 Associate Researcher @Startup
+- ❤️ TypeScript, Node.js, React.js, React-Native.js, Next.js, Nest.js
 
-## Career
+## 📑 Career
 - Firmware Engineer(~2018)
 - Startup Web/Mobile Programmer(~Now)
 - Class Coach @Fastcampus
