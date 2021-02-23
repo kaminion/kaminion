@@ -1,4 +1,4 @@
-## Information
+## 😺 Information
 - 🇰🇷 Incheon, South Korea 
 - 📚 A.I Postgraduate Student @Konkuk
 - 👨‍💻 Associate Researcher @Startup
