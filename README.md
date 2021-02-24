@@ -12,3 +12,6 @@
 
 ##### 👇 More Information...
 [![image](https://user-images.githubusercontent.com/35001576/108869249-5b7c8500-763a-11eb-8ce7-789e224eab69.png)](https://www.rocketpunch.com/@0ba6267fe8ff422b)
+
+[![kaminion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminion)](https://github.com/anuraghazra/github-readme-stats)
+
