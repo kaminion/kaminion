@@ -1,6 +1,6 @@
 ## 😺 Information
 - 🇰🇷 Incheon, South Korea 
-- 📚 Graduate Student in A.I @Konkuk
+- 📚 Graduate Student of A.I @Konkuk
 - 👨‍💻 Associate Researcher @Startup
 - ❤️ TypeScript, Node.js, React.js, React-Native.js, Next.js, Nest.js
 
