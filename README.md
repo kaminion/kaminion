@@ -16,7 +16,7 @@
 
 ## 🏅 Achievements
 - 📱 [COVID-19 Android App Downloads 8000+](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000746784)
-- 📦 NPM Package Downloads 100+
+- 📦 [NPM Package Downloads 200+](https://www.npmjs.com/package/types-generic-yaml)
  
 ---
 
