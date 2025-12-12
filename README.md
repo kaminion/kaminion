@@ -20,5 +20,5 @@
  
 ---
 
-[![kaminion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminion&hide_title=true)](https://github.com/kaminion)
+![kaminion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminion&hide_title=true)](https://github.com/kaminion)
 
